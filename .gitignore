@@ -1,0 +1,24 @@
+# .gitignore
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.onnx
+*.tar
+*.h5
+*.pickle
+*.pkl
+*.safetensors
+*.csv
+*.json
+*.jsonl
+*.xlsx
+*.log
+__pycache__/
+data/
+rl_action_ppo/ppo_outputs/
+rl_action_ppo/config/ppo.yaml
+rl_action_ppo/data/
+reward_pipeline/config.yaml
+reward_pipeline/data/
+figures/
