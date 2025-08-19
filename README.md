@@ -14,7 +14,7 @@ This project trains a dialogue manager that maps natural language queries to rob
 
 ---
 
-## 🚀 Usage
+## Usage
 
 The project contains scripts for the main stages of the pipeline:
 
