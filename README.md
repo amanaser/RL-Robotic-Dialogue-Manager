@@ -16,7 +16,7 @@ This project trains a dialogue manager that maps natural language queries to rob
 
 ## Usage
 
-The project contains scripts for the main stages of the pipeline:
+The scripts for the main stages of the pipeline:
 
 - `finetune_action/train_model.py`: Trains the initial baseline policy model.  
 - `train_ppo.py`: Refines the fine-tuned model using the PPO loop with the LLaMA reward model.
